@@ -1,0 +1,6 @@
+[
+  "tests/test_backtest.py::test_no_lookahead_in_run",
+  "tests/test_backtest.py::test_power_rating_shrinkage",
+  "tests/test_backtest.py::test_push_refunds",
+  "tests/test_backtest.py::test_roi_math"
+]
